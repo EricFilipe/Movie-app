@@ -53,6 +53,7 @@ body{
     background-color: #ffb92a;
     border: none;
     cursor: pointer;
+    padding: 0.7em;
 }
 
 #result{
