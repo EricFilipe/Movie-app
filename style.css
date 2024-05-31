@@ -28,7 +28,7 @@ body{
 
 .search-container{
     display: grid;
-    grid-template-columns: 7fr 3fr;
+    grid-template-columns: 7fr 2fr;
     gap: 0.7em;
 }
 
