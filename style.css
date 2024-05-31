@@ -28,12 +28,12 @@ body{
 
 .search-container{
     display: grid;
-    grid-template-columns: 7fr 2fr;
+    grid-template-columns: 7fr 3fr;
     gap: 0.7em;
 }
 
 .search-container input, .search-container button{
-    font-size: 0.9em;
+    font-size: 0.8em;
     outline: none;
     border-radius: 0.3em;
 }
@@ -53,7 +53,7 @@ body{
     background-color: #ffb92a;
     border: none;
     cursor: pointer;
-    padding: 0.7em;
+    
 }
 
 #result{
